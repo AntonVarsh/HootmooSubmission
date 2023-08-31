@@ -2,8 +2,8 @@ import os
 import streamlit as st
 import replicate
 import openai
-os.environ["REPLICATE_API_TOKEN"] = "r8_QgVoRNJeicYI95tVYunvlpKJzJVFCAe47uzdH"
-openai.api_key = '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'
+os.environ["REPLICATE_API_TOKEN"] = "YOUR KEY"
+openai.api_key = 'YOUR KEY'
 st.title("Hootmoo - Experience The World!")
 st.text("Dont press next until all of your animals have been generated please")
 st.markdown("---")
