@@ -2,6 +2,8 @@
 
 Audiocraft 24-hours Hackathon Second Place Winner 🥈 - https://lablab.ai/event/audiocraft-24-hours-hackathon
 
+Test it here: https://hootmoo-3jdr9ymqpvxht6wtzb4pqp.streamlit.app/
+
 Hootmoo is an app designed to enhance early childhood education by putting the power of personalized learning in the hands of parents. 
 Catering to toddlers as the primary beneficiaries, the app allows parents to specify the subjects and concepts they want their children to learn. 
 With a few taps, Hootmoo generates vibrant and engaging flashcards that come alive with corresponding audio, transforming learning into an interactive and enjoyable experience. 
